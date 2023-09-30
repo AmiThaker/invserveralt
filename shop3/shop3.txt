@@ -1,0 +1,3 @@
+location=Andheri
+product=tyres
+quantity=200
